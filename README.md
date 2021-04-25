@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on developing 2d mobile game. 
 - 🌱 I’m currently learning game development techniques, machine learning and other cool stuff!
 - 👯 I’m looking to collaborate on game development, web development and marketing.
-
+- 📫 Connect with me via [LinkedIn](https://www.linkedin.com/in/mulham-alibrahim/)
 
 <p align="center">
 <a href="https://github.com/Mulham">
