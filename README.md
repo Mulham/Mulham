@@ -1,4 +1,4 @@
-### Hi there 👋, I'M Mulham 
+### Hi there 👋, I'm Mulham 
 
 #### A passionate computer engineering student from Syria
 
